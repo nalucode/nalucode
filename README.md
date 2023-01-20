@@ -1,12 +1,13 @@
-<div align="left">
-  <a href="https://github.com/nalucode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nalucode&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalucode&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<p>
+  Desenvolvedor de software, com experiência profissional de 3 anos em projetos do setor financeiro/fintechs.
+  Iniciando na programação em 2017, me reconheço como entusiasta de novas tecnologias do mercado.
+</p>
+
+<p>
+  Possuo conhecimentos e experiências com as linguagens Javascript/Nodejs, Python e Php. Além disso também possuo experiências profissionais com
+  as tecnologias ReactJS, React Native, Flutter, Codeigniter, Laravel, AWS, FIrebase, Banco de dados SQL e NoSQL.
+ </p>
+
+<p>
+   Minhas softskills já reconhecidas e valorizadas são adaptabilidade, resolução de problemas, comunicação e trabalho em equipe.
+</p>
