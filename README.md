@@ -1,13 +1,10 @@
 <p>
-  Desenvolvedor de software, com experiência profissional de 3 anos em projetos do setor financeiro/fintechs.
-  Iniciando na programação em 2017, me reconheço como entusiasta de novas tecnologias do mercado.
+  Sou desenvolvedor Full stack com mais de 5 anos de experiência. Comecei meus estudos em tecnologia aos 16 anos e hoje me considero um construtor e apaixonado por tecnologia.
 </p>
 
-<p>
-  Possuo conhecimentos e experiências com as linguagens Javascript/Nodejs, Python e Php. Além disso também possuo experiências profissionais com
-  as tecnologias ReactJS, React Native, Flutter, Codeigniter, Laravel, AWS, FIrebase, Banco de dados SQL e NoSQL.
- </p>
+<p>Hoje domino desenvolvimento de aplicações web/mobile utilizando as linguagens Typescript, Python, Dart com Flutter. Também possuo dominio e experiência profissional com os frameworks/bibliotecas ReactJs, Django, Flask, Flutter.
+<br/>
 
-<p>
-   Minhas softskills já reconhecidas e valorizadas são adaptabilidade, resolução de problemas, comunicação e trabalho em equipe.
-</p>
+<p><a href="https://linkedin.com/in/nalucode">Acesse meu perfil no Linkedin</a> para consultar minhas outras competências, experiência profissional e formação.</p>
+
+<p>Meu email pessoal: <a href="mailto:nalucode@gmail.com">nalucode@gmail.com</a></p>
